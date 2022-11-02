@@ -1,1 +1,1 @@
-# mnist_recogntion
+# mnist-recogntion
